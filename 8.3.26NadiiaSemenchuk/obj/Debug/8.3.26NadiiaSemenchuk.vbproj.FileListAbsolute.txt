@@ -1,0 +1,11 @@
+C:\Users\Nadiia\AppData\Local\Temporary Projects\8.3.26NadiiaSemenchuk\bin\Debug\8.3.26NadiiaSemenchuk.exe.config
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\8.3.26NadiiaSemenchuk\bin\Debug\8.3.26NadiiaSemenchuk.exe.config
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\8.3.26NadiiaSemenchuk\bin\Debug\8.3.26NadiiaSemenchuk.exe
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\8.3.26NadiiaSemenchuk\bin\Debug\8.3.26NadiiaSemenchuk.pdb
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\8.3.26NadiiaSemenchuk\bin\Debug\8.3.26NadiiaSemenchuk.xml
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\8.3.26NadiiaSemenchuk\obj\Debug\_8._3._26NadiiaSemenchuk.Resources.resources
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\8.3.26NadiiaSemenchuk\obj\Debug\8.3.26NadiiaSemenchuk.vbproj.GenerateResource.Cache
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\8.3.26NadiiaSemenchuk\obj\Debug\8.3.26NadiiaSemenchuk.exe
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\8.3.26NadiiaSemenchuk\obj\Debug\8.3.26NadiiaSemenchuk.xml
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\8.3.26NadiiaSemenchuk\obj\Debug\8.3.26NadiiaSemenchuk.pdb
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\8.3.26NadiiaSemenchuk\obj\Debug\_8._3._26NadiiaSemenchuk.frmSciFiBooks.resources

@@ -1,0 +1,25 @@
+"Dune",Frank Herbert,597,143
+"Foundation",Isaak Asimov,519,82
+"Ender's Game",Orson Scott Card,551,165
+"1984",George Orwell,349,73
+"Hyperion",Dan Simmons,308,70
+"The Hitchhiker's Guide To The Galaxy",Douglas Adams,347,118
+"The Forever War",Joe Haldeman,224,50
+"Starship Troopers",Robert A. Heinlein,234,61
+"2001 A Space Oddyssey",Arthur C. Clarke,202,51
+"Rendezvous With Rama",Arthur C. Clarke,193,45
+"Neuromancer",William Gibson,179,61
+"Do Android Dream Of Electric Sheep",Philip K. Dick,138,17
+"Snow Crash",Neal Stephenson,140,34
+"The Mote In God's Eye",Larry Niven,125,28
+"Gateway",Frederik Pohl,108,15
+"Player of Games",Iain M. Banks,118,26
+"Old Man's War",John Scalzi,126,36
+"Brave New World",Aldous Huxley,112,22
+"The Stars My Destination",Alfred Bester,104,17
+"The Left Hand Of Darkness",Ursula K. Le Guin,105,22
+"Fire Upon The Deep",Vernor Vinge,103,27
+"Ubik",Philip K. Dick,103,29
+"Altered Carbon",Richard K. Morgan,81,20
+"Fahrenheit 451",Ray Bradbury,69,10
+"Book of The New Sun",Gene Wolfe,86,31

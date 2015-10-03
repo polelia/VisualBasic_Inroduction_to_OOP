@@ -1,0 +1,155 @@
+<?xml version='1.0'?>
+<!-- This file contains data on the all time top 25 science -->
+<!-- fiction literature. Based on crowd-ranked list from the bestsciencefictionbooks.com -->
+<Best_SciFi_Books>
+  <book>
+    <title>"Dune"</title>
+    <author>Frank Herbert</author>
+    <upvotes>597</upvotes>
+	<downvotes>143</downvotes>
+  </book>
+  <book>
+    <title>"Foundation"</title>
+    <author>Isaak Asimov</author>
+    <upvotes>519</upvotes>
+	<downvotes>82</downvotes>
+  </book>
+  <book>
+    <title>"Ender's Game"</title>
+    <author>Orson Scott Card</author>
+    <upvotes>551</upvotes>
+	<downvotes>165</downvotes>
+  </book>
+  <book>
+    <title>"1984"</title>
+    <author>George Orwell</author>
+    <upvotes>349</upvotes>
+	<downvotes>73</downvotes>
+  </book>
+  <book>
+    <title>"Hyperion"</title>
+    <author>Dan Simmons</author>
+    <upvotes>308</upvotes>
+	<downvotes>70</downvotes>
+  </book>
+  <book>
+    <title>"The Hitchhiker's Guide To The Galaxy"</title>
+    <author>Douglas Adams</author>
+    <upvotes>347</upvotes>
+	<downvotes>118</downvotes>
+  </book>
+  <book>
+    <title>"The Forever War"</title>
+    <author>Joe Haldeman</author>
+    <upvotes>224</upvotes>
+	<downvotes>50</downvotes>
+  </book>
+  <book>
+    <title>"Starship Troopers"</title>
+    <author>Robert A. Heinlein</author>
+    <upvotes>234</upvotes>
+	<downvotes>61</downvotes>
+  </book>
+   <book>
+    <title>"2001 A Space Oddyssey"</title>
+    <author>Arthur C. Clarke</author>
+    <upvotes>202</upvotes>
+	<downvotes>51</downvotes>
+  </book>
+  <book>
+    <title>"Rendezvous With Rama"</title>
+    <author>Arthur C. Clarke</author>
+    <upvotes>193</upvotes>
+	<downvotes>45</downvotes>
+  </book>
+    <book>
+    <title>"Neuromancer"</title>
+    <author>William Gibson</author>
+    <upvotes>179</upvotes>
+	<downvotes>61</downvotes>
+  </book>
+  <book>
+    <title>"Do Android Dream Of Electric Sheep"</title>
+    <author>Philip K. Dick</author>
+    <upvotes>138</upvotes>
+	<downvotes>17</downvotes>
+  </book>
+  <book>
+    <title>"Snow Crash"</title>
+    <author>Neal Stephenson</author>
+    <upvotes>140</upvotes>
+	<downvotes>34</downvotes>
+  </book>
+  <book>
+    <title>"The Mote In God's Eye"</title>
+    <author>Larry Niven</author>
+    <upvotes>125</upvotes>
+	<downvotes>28</downvotes>
+  </book>
+  <book>
+    <title>"Gateway"</title>
+    <author>Frederik Pohl</author>
+    <upvotes>108</upvotes>
+	<downvotes>15</downvotes>
+  </book>
+  <book>
+    <title>"Player of Games"</title>
+    <author>Iain M. Banks</author>
+    <upvotes>118</upvotes>
+	<downvotes>26</downvotes>
+  </book>
+  <book>
+    <title>"Old Man's War"</title>
+    <author>John Scalzi</author>
+    <upvotes>126</upvotes>
+	<downvotes>36</downvotes>
+  </book>
+  <book>
+    <title>"Brave New World"</title>
+    <author>Aldous Huxley</author>
+    <upvotes>112</upvotes>
+	<downvotes>22</downvotes>
+  </book>
+  <book>
+    <title>"The Stars My Destination"</title>
+    <author>Alfred Bester</author>
+    <upvotes>104</upvotes>
+	<downvotes>17</downvotes>
+  </book>
+  <book>
+    <title>"The Left Hand Of Darkness"</title>
+    <author>Ursula K. Le Guin</author>
+    <upvotes>105</upvotes>
+	<downvotes>22</downvotes>
+  </book>
+ <book>
+    <title>"Fire Upon The Deep"</title>
+    <author>Vernor Vinge</author>
+    <upvotes>103</upvotes>
+	<downvotes>27</downvotes>
+  </book>
+ <book>
+    <title>"Ubik"</title>
+    <author>Philip K. Dick</author>
+    <upvotes>103</upvotes>
+	<downvotes>29</downvotes>
+  </book>
+   <book>
+    <title>"Altered Carbon"</title>
+    <author>Richard K. Morgan</author>
+    <upvotes>81</upvotes>
+	<downvotes>20</downvotes>
+  </book>
+  <book>
+    <title>"Fahrenheit 451"</title>
+    <author>Ray Bradbury</author>
+    <upvotes>69</upvotes>
+	<downvotes>10</downvotes>
+  </book>
+  <book>
+    <title>"Book of The New Sun"</title>
+    <author>Gene Wolfe</author>
+    <upvotes>86</upvotes>
+	<downvotes>31</downvotes>
+  </book>
+ </Best_SciFi_Books>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+8.3.26NadiiaSemenchuk
+</name>
+</assembly>
+<members>
+<member name="P:_8._3._26NadiiaSemenchuk.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:_8._3._26NadiiaSemenchuk.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:_8._3._26NadiiaSemenchuk.My.Resources.Resources._287002">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:_8._3._26NadiiaSemenchuk.My.Resources.Resources._2870021">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:_8._3._26NadiiaSemenchuk.My.Resources.Resources.darth_vader_reading_harry_potter1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:_8._3._26NadiiaSemenchuk.My.Resources.Resources.darthvaderreading">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:_8._3._26NadiiaSemenchuk.My.Resources.Resources.L287002">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:_8._3._26NadiiaSemenchuk.My.Resources.Resources.L2870021">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:_8._3._26NadiiaSemenchuk.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
