@@ -1,0 +1,31 @@
+C:\Users\Nadiia\AppData\Local\Temporary Projects\6_HowToWinALottery\bin\Debug\6_HowToWinALottery.exe.config
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\6_HowToWinALottery\bin\Debug\6_HowToWinALottery.exe.config
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\6_HowToWinALottery\bin\Debug\6_HowToWinALottery.exe
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\6_HowToWinALottery\bin\Debug\6_HowToWinALottery.pdb
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\6_HowToWinALottery\bin\Debug\6_HowToWinALottery.xml
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\6_HowToWinALottery\obj\Debug\_6_HowToWinALottery.frmWinLottery.resources
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\6_HowToWinALottery\obj\Debug\_6_HowToWinALottery.Resources.resources
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\6_HowToWinALottery\obj\Debug\6_HowToWinALottery.vbproj.GenerateResource.Cache
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\6_HowToWinALottery\obj\Debug\6_HowToWinALottery.exe
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\6_HowToWinALottery\obj\Debug\6_HowToWinALottery.xml
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\6_HowToWinALottery\obj\Debug\6_HowToWinALottery.pdb
+C:\Users\n00825521\Desktop\6_HowToWinALottery\bin\Debug\6_HowToWinALottery.exe.config
+C:\Users\n00825521\Desktop\6_HowToWinALottery\obj\Debug\6_HowToWinALottery.exe
+C:\Users\n00825521\Desktop\6_HowToWinALottery\obj\Debug\6_HowToWinALottery.xml
+C:\Users\n00825521\Desktop\6_HowToWinALottery\obj\Debug\6_HowToWinALottery.pdb
+C:\Users\n00825521\Desktop\6_HowToWinALottery\bin\Debug\6_HowToWinALottery.exe
+C:\Users\n00825521\Desktop\6_HowToWinALottery\bin\Debug\6_HowToWinALottery.pdb
+C:\Users\n00825521\Desktop\6_HowToWinALottery\bin\Debug\6_HowToWinALottery.xml
+C:\Users\n00825521\Desktop\6_HowToWinALottery\obj\Debug\_6_HowToWinALottery.frmWinLottery.resources
+C:\Users\n00825521\Desktop\6_HowToWinALottery\obj\Debug\_6_HowToWinALottery.Resources.resources
+C:\Users\n00825521\Desktop\6_HowToWinALottery\obj\Debug\6_HowToWinALottery.vbproj.GenerateResource.Cache
+C:\Users\Nadiia\Downloads\6_HowToWinALottery\6_HowToWinALottery\bin\Debug\6_HowToWinALottery.exe.config
+C:\Users\Nadiia\Downloads\6_HowToWinALottery\6_HowToWinALottery\obj\Debug\6_HowToWinALottery.exe
+C:\Users\Nadiia\Downloads\6_HowToWinALottery\6_HowToWinALottery\obj\Debug\6_HowToWinALottery.xml
+C:\Users\Nadiia\Downloads\6_HowToWinALottery\6_HowToWinALottery\obj\Debug\6_HowToWinALottery.pdb
+C:\Users\Nadiia\Downloads\6_HowToWinALottery\6_HowToWinALottery\bin\Debug\6_HowToWinALottery.exe
+C:\Users\Nadiia\Downloads\6_HowToWinALottery\6_HowToWinALottery\bin\Debug\6_HowToWinALottery.pdb
+C:\Users\Nadiia\Downloads\6_HowToWinALottery\6_HowToWinALottery\bin\Debug\6_HowToWinALottery.xml
+C:\Users\Nadiia\Downloads\6_HowToWinALottery\6_HowToWinALottery\obj\Debug\_6_HowToWinALottery.frmWinLottery.resources
+C:\Users\Nadiia\Downloads\6_HowToWinALottery\6_HowToWinALottery\obj\Debug\_6_HowToWinALottery.Resources.resources
+C:\Users\Nadiia\Downloads\6_HowToWinALottery\6_HowToWinALottery\obj\Debug\6_HowToWinALottery.vbproj.GenerateResource.Cache
