@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "3_2_SemenchukNadiia", "3_2_SemenchukNadiia.vbproj", "{D3D0D9A3-D642-4EE1-A864-4ED5694C191A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3D0D9A3-D642-4EE1-A864-4ED5694C191A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D0D9A3-D642-4EE1-A864-4ED5694C191A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D0D9A3-D642-4EE1-A864-4ED5694C191A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D0D9A3-D642-4EE1-A864-4ED5694C191A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

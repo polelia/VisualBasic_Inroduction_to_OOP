@@ -1,0 +1,10 @@
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\3_2_SemenchukNadiia\bin\Debug\3_2_SemenchukNadiia.exe.config
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\3_2_SemenchukNadiia\bin\Debug\3_2_SemenchukNadiia.exe
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\3_2_SemenchukNadiia\bin\Debug\3_2_SemenchukNadiia.pdb
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\3_2_SemenchukNadiia\bin\Debug\3_2_SemenchukNadiia.xml
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\3_2_SemenchukNadiia\obj\Debug\WindowsApplication1.frmRepairBill.resources
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\3_2_SemenchukNadiia\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\3_2_SemenchukNadiia\obj\Debug\3_2_SemenchukNadiia.vbproj.GenerateResource.Cache
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\3_2_SemenchukNadiia\obj\Debug\3_2_SemenchukNadiia.exe
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\3_2_SemenchukNadiia\obj\Debug\3_2_SemenchukNadiia.xml
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\3_2_SemenchukNadiia\obj\Debug\3_2_SemenchukNadiia.pdb
