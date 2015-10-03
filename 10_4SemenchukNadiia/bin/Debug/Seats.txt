@@ -1,0 +1,16 @@
+A,B,C, ,D,E,F
+R,.,V, ,R,L,L
+R,.,R, ,.,L,.
+R,.,L, ,.,L,R
+R,R,L, ,V,R,R
+R,V,., ,R,R,R
+R,R,L, ,L,.,R
+R,R,R, ,.,R,R
+.,.,R, ,.,.,R
+L,R,., ,L,.,R
+R,R,R, ,L,R,R
+.,L,R, ,R,R,R
+R,R,L, ,.,V,.
+.,L,., ,R,.,R
+V,.,., ,.,.,R
+.,L,R, ,V,R,R

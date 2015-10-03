@@ -1,0 +1,15 @@
+C:\Users\Nadiia\AppData\Local\Temporary Projects\10_4SemenchukNadiia\bin\Debug\10_4SemenchukNadiia.exe.config
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\10_4SemenchukNadiia\bin\Debug\10_4SemenchukNadiia.exe.config
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\10_4SemenchukNadiia\bin\Debug\10_4SemenchukNadiia.exe
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\10_4SemenchukNadiia\bin\Debug\10_4SemenchukNadiia.pdb
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\10_4SemenchukNadiia\bin\Debug\10_4SemenchukNadiia.xml
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\10_4SemenchukNadiia\obj\Debug\_10_4SemenchukNadiia.frmAirplane.resources
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\10_4SemenchukNadiia\obj\Debug\_10_4SemenchukNadiia.Resources.resources
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\10_4SemenchukNadiia\obj\Debug\10_4SemenchukNadiia.vbproj.GenerateResource.Cache
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\10_4SemenchukNadiia\obj\Debug\10_4SemenchukNadiia.exe
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\10_4SemenchukNadiia\obj\Debug\10_4SemenchukNadiia.xml
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\10_4SemenchukNadiia\obj\Debug\10_4SemenchukNadiia.pdb
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\10_4SemenchukNadiia\obj\Debug\_10_4SemenchukNadiia.frmSeatStatus.resources
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\10_4SemenchukNadiia\obj\Debug\_10_4SemenchukNadiia.frmPie.resources
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\10_4SemenchukNadiia\obj\Debug\_10_4SemenchukNadiia.frmBarChart.resources
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\10_4SemenchukNadiia\obj\Debug\_10_4SemenchukNadiia.frmAnimation.resources
