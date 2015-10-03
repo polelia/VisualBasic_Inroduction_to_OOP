@@ -1,0 +1,41 @@
+C:\Users\Nadiia\AppData\Local\Temporary Projects\7_2_Lucky4_LLC\bin\Debug\7_2_Lucky4_LLC.exe.config
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\7_2_Lucky4_LLC\bin\Debug\7_2_Lucky4_LLC.exe.config
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\7_2_Lucky4_LLC\bin\Debug\7_2_Lucky4_LLC.exe
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\7_2_Lucky4_LLC\bin\Debug\7_2_Lucky4_LLC.pdb
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\7_2_Lucky4_LLC\bin\Debug\7_2_Lucky4_LLC.xml
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\7_2_Lucky4_LLC\obj\Debug\_7_2_Lucky4_LLC.frmRestaurants.resources
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\7_2_Lucky4_LLC\obj\Debug\_7_2_Lucky4_LLC.Resources.resources
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\7_2_Lucky4_LLC\obj\Debug\7_2_Lucky4_LLC.vbproj.GenerateResource.Cache
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\7_2_Lucky4_LLC\obj\Debug\7_2_Lucky4_LLC.exe
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\7_2_Lucky4_LLC\obj\Debug\7_2_Lucky4_LLC.xml
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\7_2_Lucky4_LLC\obj\Debug\7_2_Lucky4_LLC.pdb
+C:\Users\n00825521\Desktop\7_2_Lucky4_LLC\bin\Debug\7_2_Lucky4_LLC.exe.config
+C:\Users\n00825521\Desktop\7_2_Lucky4_LLC\obj\Debug\7_2_Lucky4_LLC.exe
+C:\Users\n00825521\Desktop\7_2_Lucky4_LLC\obj\Debug\7_2_Lucky4_LLC.xml
+C:\Users\n00825521\Desktop\7_2_Lucky4_LLC\obj\Debug\7_2_Lucky4_LLC.pdb
+C:\Users\n00825521\Desktop\7_2_Lucky4_LLC\bin\Debug\7_2_Lucky4_LLC.exe
+C:\Users\n00825521\Desktop\7_2_Lucky4_LLC\bin\Debug\7_2_Lucky4_LLC.pdb
+C:\Users\n00825521\Desktop\7_2_Lucky4_LLC\bin\Debug\7_2_Lucky4_LLC.xml
+C:\Users\n00825521\Desktop\7_2_Lucky4_LLC\obj\Debug\_7_2_Lucky4_LLC.frmRestaurants.resources
+C:\Users\n00825521\Desktop\7_2_Lucky4_LLC\obj\Debug\_7_2_Lucky4_LLC.Resources.resources
+C:\Users\n00825521\Desktop\7_2_Lucky4_LLC\obj\Debug\7_2_Lucky4_LLC.vbproj.GenerateResource.Cache
+C:\Users\Nadiia\Downloads\7_2_Lucky4_LLC (2)\7_2_Lucky4_LLC\bin\Debug\7_2_Lucky4_LLC.exe.config
+C:\Users\Nadiia\Downloads\7_2_Lucky4_LLC (2)\7_2_Lucky4_LLC\obj\Debug\7_2_Lucky4_LLC.exe
+C:\Users\Nadiia\Downloads\7_2_Lucky4_LLC (2)\7_2_Lucky4_LLC\obj\Debug\7_2_Lucky4_LLC.xml
+C:\Users\Nadiia\Downloads\7_2_Lucky4_LLC (2)\7_2_Lucky4_LLC\obj\Debug\7_2_Lucky4_LLC.pdb
+C:\Users\Nadiia\Downloads\7_2_Lucky4_LLC (2)\7_2_Lucky4_LLC\bin\Debug\7_2_Lucky4_LLC.exe
+C:\Users\Nadiia\Downloads\7_2_Lucky4_LLC (2)\7_2_Lucky4_LLC\bin\Debug\7_2_Lucky4_LLC.pdb
+C:\Users\Nadiia\Downloads\7_2_Lucky4_LLC (2)\7_2_Lucky4_LLC\bin\Debug\7_2_Lucky4_LLC.xml
+C:\Users\Nadiia\Downloads\7_2_Lucky4_LLC (2)\7_2_Lucky4_LLC\obj\Debug\_7_2_Lucky4_LLC.frmRestaurants.resources
+C:\Users\Nadiia\Downloads\7_2_Lucky4_LLC (2)\7_2_Lucky4_LLC\obj\Debug\_7_2_Lucky4_LLC.Resources.resources
+C:\Users\Nadiia\Downloads\7_2_Lucky4_LLC (2)\7_2_Lucky4_LLC\obj\Debug\7_2_Lucky4_LLC.vbproj.GenerateResource.Cache
+C:\Users\Nadiia\Downloads\7_2_Lucky4_LLC\7_2_Lucky4_LLC\bin\Debug\7_2_Lucky4_LLC.exe.config
+C:\Users\Nadiia\Downloads\7_2_Lucky4_LLC\7_2_Lucky4_LLC\obj\Debug\7_2_Lucky4_LLC.exe
+C:\Users\Nadiia\Downloads\7_2_Lucky4_LLC\7_2_Lucky4_LLC\obj\Debug\7_2_Lucky4_LLC.xml
+C:\Users\Nadiia\Downloads\7_2_Lucky4_LLC\7_2_Lucky4_LLC\obj\Debug\7_2_Lucky4_LLC.pdb
+C:\Users\Nadiia\Downloads\7_2_Lucky4_LLC\7_2_Lucky4_LLC\bin\Debug\7_2_Lucky4_LLC.exe
+C:\Users\Nadiia\Downloads\7_2_Lucky4_LLC\7_2_Lucky4_LLC\bin\Debug\7_2_Lucky4_LLC.pdb
+C:\Users\Nadiia\Downloads\7_2_Lucky4_LLC\7_2_Lucky4_LLC\bin\Debug\7_2_Lucky4_LLC.xml
+C:\Users\Nadiia\Downloads\7_2_Lucky4_LLC\7_2_Lucky4_LLC\obj\Debug\_7_2_Lucky4_LLC.frmRestaurants.resources
+C:\Users\Nadiia\Downloads\7_2_Lucky4_LLC\7_2_Lucky4_LLC\obj\Debug\_7_2_Lucky4_LLC.Resources.resources
+C:\Users\Nadiia\Downloads\7_2_Lucky4_LLC\7_2_Lucky4_LLC\obj\Debug\7_2_Lucky4_LLC.vbproj.GenerateResource.Cache
