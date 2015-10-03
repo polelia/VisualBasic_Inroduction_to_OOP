@@ -1,0 +1,15 @@
+1984,George Orwell,1949
+2001 A Space Odyssey,Arthur C. Clarke,1968
+Do Android Dream Of Electric Sheep,Philip K. Dick,1968
+Dune,Frank Herbert,1965
+Ender's Game,Orson Scott Card,1985
+Foundation,Isaac Asimov,1951
+Gateway,Frederik Pohl,1977
+Hyperion,Dan Simmons,1989
+Neuromancer,William Gibson,1984
+Rendezvous With Rama,Arthur C. Clarke,1973
+Starship Troopers,Robert A. Heinlein,1959
+Snow Crash,Neal Stephenson,1992 
+The Hitchhiker's Guide To The Galaxy,Douglas Adams,1981
+The Forever War,Joe Haldeman,1974
+The Mote In God's Eye,Larry Niven,1974
