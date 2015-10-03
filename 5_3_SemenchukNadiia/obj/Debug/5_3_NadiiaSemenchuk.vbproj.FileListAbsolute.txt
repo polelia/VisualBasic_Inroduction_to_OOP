@@ -1,0 +1,11 @@
+C:\Users\Nadiia\AppData\Local\Temporary Projects\5_3_NadiiaSemenchuk\bin\Debug\5_3_NadiiaSemenchuk.exe.config
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\5_3_NadiiaSemenchuk\bin\Debug\5_3_NadiiaSemenchuk.exe.config
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\5_3_NadiiaSemenchuk\bin\Debug\5_3_NadiiaSemenchuk.exe
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\5_3_NadiiaSemenchuk\bin\Debug\5_3_NadiiaSemenchuk.pdb
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\5_3_NadiiaSemenchuk\bin\Debug\5_3_NadiiaSemenchuk.xml
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\5_3_NadiiaSemenchuk\obj\Debug\_5_3_NadiiaSemenchuk.frmOrderInvoice.resources
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\5_3_NadiiaSemenchuk\obj\Debug\_5_3_NadiiaSemenchuk.Resources.resources
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\5_3_NadiiaSemenchuk\obj\Debug\5_3_NadiiaSemenchuk.vbproj.GenerateResource.Cache
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\5_3_NadiiaSemenchuk\obj\Debug\5_3_NadiiaSemenchuk.exe
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\5_3_NadiiaSemenchuk\obj\Debug\5_3_NadiiaSemenchuk.xml
+C:\Users\Nadiia\Documents\VisualBasic files\Homework\5_3_NadiiaSemenchuk\obj\Debug\5_3_NadiiaSemenchuk.pdb
